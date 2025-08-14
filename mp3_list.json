@@ -2,51 +2,61 @@
   {
     "title": "gentle-wave-bowl-meditation-388636",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/gentle-wave-bowl-meditation-388636.mp3",
-    "categories": ["meditation", "relaxing", "yoga"]
+    "categories": ["meditation", "relaxing", "yoga"],
+    "duration": "02:25"
   },
   {
     "title": "meditation-background-music-383120",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-background-music-383120.mp3",
-    "categories": ["meditation", "background"]
+    "categories": ["meditation", "background"],
+    "duration": "09:15"
   },
   {
     "title": "meditation-background-music-386976",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-background-music-386976.mp3",
-    "categories": ["meditation", "background", "calm"]
+    "categories": ["meditation", "background", "calm"],
+    "duration": "04:54"
   },
   {
     "title": "meditation-meditation-music-372193",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-meditation-music-372193.mp3",
-    "categories": ["meditation", "relaxing"]
+    "categories": ["meditation", "relaxing"],
+    "duration": "05:18"
   },
   {
     "title": "meditation-music-322801",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-music-322801.mp3",
-    "categories": ["meditation", "calm", "focus"]
+    "categories": ["meditation", "calm", "focus"],
+    "duration": "04:56"
   },
   {
     "title": "meditation-music-338902",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-music-338902.mp3",
-    "categories": ["meditation", "relaxing", "yoga"]
+    "categories": ["meditation", "relaxing", "yoga"],
+    "duration": "09:54"
   },
   {
     "title": "meditation-music-368634",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-music-368634.mp3",
-    "categories": ["meditation", "spiritual"]
+    "categories": ["meditation", "spiritual"],
+    "duration": "05:47"
   },
   {
     "title": "meditation-spiritual-music-330169",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-spiritual-music-330169.mp3",
-    "categories": ["meditation", "spiritual", "relaxing"]
+    "categories": ["meditation", "spiritual", "relaxing"],
+    "duration": "04:57"
   },
   {
     "title": "meditation-yoga-relaxing-music-378307",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-yoga-relaxing-music-378307.mp3",
-    "categories": ["yoga", "meditation", "relaxing"]
+    "categories": ["yoga", "meditation", "relaxing"],
+    "duration": "06:02"
   },
   {
     "title": "meditation-yoga-relaxing-music-380330",
     "url": "https://raw.githubusercontent.com/IMMANUEL-88/zenova-mp3/main/mp3/meditation-yoga-relaxing-music-380330.mp3",
-    "categories": ["yoga", "meditation", "relaxing"]
+    "categories": ["yoga", "meditation", "relaxing"],
+    "duration": "09:48"
   }
 ]
